@@ -28,7 +28,7 @@ label {
 
 select {
     padding: 8px;
-    width: 70px; /* Set a fixed width for the select element */
+    width: 70px; 
 
 }
 
@@ -60,11 +60,11 @@ main {
 }
 
 .repo {
-    border: 1px solid #ddd; /* Border color */
-    border-radius: 10px; /* Border radius for curved corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
-    margin-bottom: 20px; /* Margin between repositories */
-    padding: 15px; /* Padding inside each repository box */
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; 
+    padding: 15px; 
 }
 
 .pagination {
